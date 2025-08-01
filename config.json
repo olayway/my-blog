@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "logo": "/assets/logo.png",
+    "title": "Jose",
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/yourusername"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/yourusername"
+      },
+      {
+        "label": "mastodon",
+        "name": "Follow me on Mastodon",
+        "href": "https://twitter.com/yourusername"
+      }
+    ]
+  }
+}

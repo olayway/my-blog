@@ -3,6 +3,11 @@
 #navbar {
     background-color: #09090b !important;
     color: #ffffff !important;
+    position: static !important;
+}
+
+#navbar * {
+    color: #ffffff !important;
 }
 
 /* Apply the serif font to headings */
