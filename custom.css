@@ -30,3 +30,9 @@ header img {
     margin: auto
 }
 
+@media (max-width: 1250px) {
+    header img {
+        margin: 2.5rem auto
+    }
+}
+
