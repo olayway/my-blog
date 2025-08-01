@@ -24,7 +24,7 @@ header * {
 }
 
 header div:has(img) {
-    width: 5rem !important;
-    height: 5rem !important;
+    width: 15rem !important;
+    height: 15rem !important;
 }
 
