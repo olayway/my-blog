@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Nata+Sans:wght@100..900&display=swap');
+
+#navbar {
+    background-color: #09090b;
+}
+
+/* Apply the serif font to headings */
+article :is(h1, h2, h3, h4, h5, h6) {
+    font-family: 'Fraunces', serif !important;
+}
+
+/* Apply the sans-serif font to the body text */
+article :not(h1, h2, h3, h4, h5, h6) {
+    font-family: 'Nata Sans', sans-serif !important;
+}
+
+header {
+    background-color: #09090b;
+}
