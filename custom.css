@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Nata+Sans:wght@100..900&display=swap');
 
+/* Apply the serif font to headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fraunces', serif !important;
+}
+
+/* Apply the sans-serif font to the body text */
+:not(h1, h2, h3, h4, h5, h6) {
+    font-family: 'Nata Sans', sans-serif !important;
+}
+
 #navbar {
     background-color: #09090b !important;
     color: #ffffff !important;
@@ -10,16 +20,6 @@
     color: #ffffff !important;
     font-family: 'Nata Sans', serif !important;
     font-size: 1.5rem;
-}
-
-/* Apply the serif font to headings */
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fraunces', serif !important;
-}
-
-/* Apply the sans-serif font to the body text */
-:not(h1, h2, h3, h4, h5, h6) {
-    font-family: 'Nata Sans', sans-serif !important;
 }
 
 #hero {
@@ -41,5 +41,9 @@ h1, h2, h3, h4, h5, h6 {
     #hero img {
         margin: 0 auto 5rem
     }
+}
+
+article section p::first-letter {
+    font-size: 4rem;
 }
 
