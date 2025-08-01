@@ -24,8 +24,8 @@ header * {
 }
 
 header img {
-    width: 15rem !important;
-    height: 15rem !important;
+    width: 50% !important;
+    height: 50% !important;
     border-radius: 50% 50% 50% 0;
     margin: auto
 }
