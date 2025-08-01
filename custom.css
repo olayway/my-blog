@@ -32,7 +32,7 @@ header img {
 
 @media (max-width: 1250px) {
     header img {
-        margin: 2.5rem auto
+        margin: 0 auto 5rem
     }
 }
 
