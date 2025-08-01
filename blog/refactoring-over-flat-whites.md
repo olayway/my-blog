@@ -1,9 +1,9 @@
 ---
 title: Refactoring Over Flat Whites
 description: Stirring clarity into legacy code, one silky sip at a time
-authors: [jose-walker]
+authors: [julie]
 date: 2025-05-19
-image: /assets/Collaborative-Workflow.webp
+image: /assets/flat-whites.png
 ---
 
 ## Aroma of Old Code

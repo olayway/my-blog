@@ -1,14 +1,14 @@
 ---
 title: Espresso-Driven Debugging
 description: How a double-shot of dark roast—and a quick conversation with a rubber duck—helped me squash a stubborn null-pointer before sunrise.
-authors: [jose-walker]
+authors: [julie]
 date: 2025-04-18
-image: /assets/Contemplative-Young-Man-Studying.webp
+image: /assets/hero.png
 ---
 
 ## 5:15 AM, the Null Pointer Strikes
 
-The build had been green for weeks—until my late-night refactor introduced a cryptic NullPointerException that only surfaced in production logs. Re-creating it locally felt like chasing steam off a cappuccino. So I set my alarm for “pre-dawn café o’clock,” grabbed the laptop, and headed to my favorite corner espresso bar.
+The build had been green for weeks—until my late-night refactor introduced a cryptic cssNullPointerException that only surfaced in production logs. Re-creating it locally felt like chasing steam off a cappuccino. So I set my alarm for “pre-dawn café o’clock,” grabbed the laptop, and headed to my favorite corner espresso bar.
 
 ## Pulling the Double Shot (Setting the Stage)
 

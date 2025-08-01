@@ -1,9 +1,9 @@
 ---
 title: From Beans to Build Times From Beans to Build Times
 description: How a day-long flight through three brewing methods sharpened my focus, sped up my CI pipeline cleanup, and reminded me why the smallest rituals matter.
-authors: [jose-walker]
+authors: [julie]
 date: 2025-05-10
-image: /assets/Modern-Design-Objects.webp
+image: /assets/beans.png
 ---
 
 ## 07:00 — Defining the Experiment

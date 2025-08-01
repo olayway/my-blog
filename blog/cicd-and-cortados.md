@@ -1,12 +1,12 @@
 ---
-title: CI/CD & Cortados: A Love Story
-description: Case study showing how trimming a CI/CD pipeline to “cortado size” slashed build times, cut deploy pain, and kept code (and caffeine) flowing smoothly.
-authors: [jose-walker]
+title: "CI/CD & Cortados: A Love Story"
+description: "Case study showing how trimming a CI/CD pipeline to “cortado size” slashed build times, cut deploy pain, and kept code (and caffeine) flowing smoothly."
+authors: [julie]
 date: 2025-04-24
-image: /assets/Focused-Study-Session.webp
+image: /assets/cicd.png
 ---
 
-# CI/CD & Cortados: A Love Story  
+# CI/CD & Cortados: A Love Story
 
 When the afternoon slump looms, I wander to my neighborhood café for a **cortado**—equal parts bold espresso and silky steamed milk. It’s the perfect balance: no sugar rush, no milk overload, just a smooth jolt that lets me push code to prod with steady hands. Over time, I realized my *ideal* CI/CD pipeline feels a lot like that cortado: small, balanced, and delightfully reliable.
 
@@ -15,7 +15,8 @@ When the afternoon slump looms, I wander to my neighborhood café for a **cortad
 
 ---
 
-## The Ingredients  
+## The Ingredients
+
 | Cortado Component | Pipeline Parallel |
 | --- | --- |
 | **1 shot espresso** (intense flavor) | **Unit tests** (quick validation) |
@@ -27,7 +28,7 @@ When the afternoon slump looms, I wander to my neighborhood café for a **cortad
 
 ---
 
-## The Flow at a Glance  
+## The Flow at a Glance
 
 ```mermaid
 graph TD
@@ -44,7 +45,7 @@ graph TD
 
 ---
 
-## Brew-Inspired Best Practices  
+## Brew-Inspired Best Practices
 
 1. **Pre-warm the cup** → *Cache dependencies*.  
    Warming a glass keeps espresso from cooling too fast; caching NPM/PyPI packages shaves ~40 s from each build.  
@@ -60,7 +61,7 @@ graph TD
 
 ---
 
-## My Daily Ritual  
+## My Daily Ritual
 
 1. **Commit & Push** – Fingers fly, latte art inspiration looms.  
 2. **Order Cortado** – 90 seconds at the bar; pipeline already in motion.  

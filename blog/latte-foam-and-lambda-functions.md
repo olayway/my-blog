@@ -1,9 +1,9 @@
 ---
 title: Latte Foam & Lambda Functions
 description: A frothy introduction to JavaScript arrow functions—told through the art of steaming milk at three neighborhood cafés.
-authors: [jose-walker]
+authors: [julie]
 date: 2025-05-05
-image: /assets/Woman-at-Creative-Workspace.webp
+image: /assets/lambda.png
 ---
 
 ## The Crema of Convenience

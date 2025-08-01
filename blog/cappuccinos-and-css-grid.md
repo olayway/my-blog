@@ -1,9 +1,9 @@
 ---
 title: Cappuccinos & CSS Grid
 description: Brewing responsive layouts with barista-level finesse
-authors: [jose-walker]
+authors: [julie]
 date: 2025-04-12
-image: /assets/Modern-Design-Objects.webp
+image: /assets/css.png
 ---
 
 ## Why Grid Pairs Perfectly With Foam

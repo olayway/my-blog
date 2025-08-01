@@ -1,9 +1,9 @@
 ---
 title: The ‘Pomodoro Piccolo’ Challenge
 description: Personal heuristics for assessing AI Design, blending insights from Design and Thinking to improve clarity in digital experiences.
-authors: [jose-walker]
+authors: [julie]
 date: 2025-06-15
-image: /assets/Surreal-Cityscape-Art.webp
+image: /assets/pomodoro.png
 ---
 
 ## A Tiny Espresso, a Tiny Sprint
@@ -38,6 +38,7 @@ That five-ounce cup lasted about **15 minutes**. When the cup emptied, I stopped
 |   Higher completion rate for micro-tasks (linting, tests, tiny UI tweaks)  |   Scope naturally shrinks to fit the sprint                         |
 
 ## What Didn’t
+
 - **Deep-thinking tasks**—like architecture diagrams—needed two back-to-back piccolos (30 min total) to reach flow.
 - **Tracking overhead**: Manually noting each sprint and break in a notebook got tedious by day three.
 - **Six espressos/day** creeped toward the edge of my caffeine tolerance; I switched two afternoon rounds to herbal tea “pomodorinos.”
