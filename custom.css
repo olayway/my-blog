@@ -51,16 +51,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* make both inner divs span 6 columns each → 6-6 */
-#hero > div:nth-child(1),
-#hero > div:nth-child(2) {
+#hero div > div:nth-child(1),
+#hero div > div:nth-child(2) {
   grid-column: span 6 / span 6 !important;
 }
 
 /* ------------- medium screens (≥768 px) ------------- */
 @media (min-width: 768px) {
   /* 7-5 split */
-  #hero > div:nth-child(1) { grid-column: span 7 / span 7 !important; }
-  #hero > div:nth-child(2) { grid-column: span 5 / span 5 !important; }
+  #hero div > div:nth-child(1) { grid-column: span 7 / span 7 !important; }
+  #hero div > div:nth-child(2) { grid-column: span 5 / span 5 !important; }
 }
 
 article section p:first-of-type ::first-letter {
