@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Nata+Sans:wght@100..900&display=swap');
 
 #navbar {
-    background-color: #09090b;
+    background-color: #09090b !important;
 }
 
 /* Apply the serif font to headings */
@@ -15,5 +15,5 @@ article :not(h1, h2, h3, h4, h5, h6) {
 }
 
 header {
-    background-color: #09090b;
+    background-color: #09090b !important;
 }
