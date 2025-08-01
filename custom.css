@@ -23,3 +23,8 @@ header * {
     color: #ffffff !important;
 }
 
+header div:has(img) {
+    width: 5rem !important;
+    height: 5rem !important;
+}
+
