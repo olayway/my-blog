@@ -30,7 +30,7 @@ header img {
     margin: auto
 }
 
-@media (max-width: 1250px) {
+@media (max-width: 1024px) {
     header img {
         margin: 0 auto 5rem
     }
