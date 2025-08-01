@@ -1,5 +1,5 @@
 ---
-title: Espresso-Driven Debugging ☕️🐛
+title: Espresso-Driven Debugging
 description: How a double-shot of dark roast—and a quick conversation with a rubber duck—helped me squash a stubborn null-pointer before sunrise.
 authors: [jose-walker]
 date: 2025-04-18
