@@ -1,8 +1,8 @@
 ---
-title: Jose Walker is a Product Designer and Strategist.
-description: That’s me! I'm currently working as an independent product designer and strategist, exploring design processes, coding workflows, and writing regularly about my insights and ideas to help creators improve their craft.
+title: Code & Coffee Breaks
+description: Sip, code, repeat—bite-sized reflections on leveling up as a developer, each brewed alongside a fresh cup and a quick café review.
 showHero: true
-image: /people/jose.png
+image: /assets/hero.png
 ---
 
 <List dir="/blog" fields={["title", "description", "image", "date"]} pageSize={6}/>
