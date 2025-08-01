@@ -43,26 +43,6 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-#hero {
-  /* turn the wrapper into a 12-col grid from the start */
-  display: grid !important;
-  grid-template-columns: repeat(12, 1fr) !important;
-  gap: 2rem !important;            /* mimics lg:gap-x-8 */
-}
-
-/* make both inner divs span 6 columns each → 6-6 */
-#hero div > div:nth-child(1),
-#hero div > div:nth-child(2) {
-  grid-column: span 6 / span 6 !important;
-}
-
-/* ------------- medium screens (≥768 px) ------------- */
-@media (min-width: 768px) {
-  /* 7-5 split */
-  #hero div > div:nth-child(1) { grid-column: span 7 / span 7 !important; }
-  #hero div > div:nth-child(2) { grid-column: span 5 / span 5 !important; }
-}
-
 article section p:first-of-type ::first-letter {
     font-size: 4rem;
     padding: 6px 3px;
