@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Apply the sans-serif font to the body text */
-article :not(h1, h2, h3, h4, h5, h6) {
+:not(h1, h2, h3, h4, h5, h6) {
     font-family: 'Nata Sans', sans-serif !important;
 }
 
