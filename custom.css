@@ -65,7 +65,3 @@ article section p:first-of-type ::first-letter {
 #list-component nav {
     grid-column: 1 / -1;
 }
-
-#inner-layout {
-    max-width: 85rem !important;
-}
