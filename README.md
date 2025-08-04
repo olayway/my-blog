@@ -4,6 +4,7 @@ description: Sip, code, repeat—bite-sized reflections on leveling up as a deve
 showHero: true
 image: /assets/hero.png
 showToc: false
+showSidebar: false
 ---
 
 <List dir="/blog" fields={["title", "description", "image", "date"]} pageSize={6}/>
