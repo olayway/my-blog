@@ -77,4 +77,5 @@ article section p:first-of-type ::first-letter {
 
 #list-component article h3 {
     font-size: 2rem !important;
+    line-height: 1 !important;
 }
