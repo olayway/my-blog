@@ -67,10 +67,14 @@ article section p:first-of-type ::first-letter {
 
 @media (max-width: 640px) {
     #list-component {
-    grid-template-columns: 1fr;
+        grid-template-columns: 1fr;
     }
 }
 
 #list-component nav {
     grid-column: 1 / -1;
+}
+
+#list-component article h3 {
+    font-size: 2rem !important;
 }
