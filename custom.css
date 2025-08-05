@@ -73,10 +73,3 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2rem !important;
     line-height: 1 !important;
 }
-
-article section p:first-of-type ::first-letter {
-    font-size: 4rem;
-    padding: 6px 3px;
-    margin-right: 6px;
-    float: left;
-}
