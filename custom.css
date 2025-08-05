@@ -38,8 +38,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero img {
-    width: 22rem !important;
-    height: 22rem !important;
+    width: 20rem !important;
+    height: 20rem !important;
     border-radius: 100% !important;
     margin: auto !important;
 }
