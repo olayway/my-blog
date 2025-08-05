@@ -76,3 +76,8 @@ article section p:first-of-type ::first-letter {
 #list-component nav {
     grid-column: 1 / -1;
 }
+
+#list-component article h3 {
+    font-family: 'Ovo', serif !important;
+    font-size: 2rem !important;
+}
