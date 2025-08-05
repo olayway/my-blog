@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Nata+Sans:wght@100..900&family=Ovo&display=swap');
 
-/* Apply the serif font to headings */
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Ovo', serif !important;
+body {
+    font-family: 'Nata Sans', sans-serif !important;
 }
 
-/* Apply the sans-serif font to the body text */
-:not(h1, h2, h3, h4, h5, h6) {
-    font-family: 'Nata Sans', sans-serif !important;
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ovo', serif !important;
 }
 
 #navbar {
@@ -75,9 +73,4 @@ article section p:first-of-type ::first-letter {
 
 #list-component nav {
     grid-column: 1 / -1;
-}
-
-#list-component article h3 {
-    font-family: 'Ovo', serif !important;
-    font-size: 2rem !important;
 }
