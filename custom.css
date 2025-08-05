@@ -31,10 +31,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero img {
-    width: 25rem !important;
-    height: 25rem !important;
+    width: 22rem !important;
+    height: 22rem !important;
     border-radius: 100% !important;
     margin: auto !important;
+    padding-bottom: 
 }
 
 #hero div {
