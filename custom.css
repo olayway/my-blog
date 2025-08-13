@@ -82,3 +82,7 @@
     font-size: 2rem;
     line-height: 1;
 }
+
+.list-component-item-description, .list-component-item-eyebrow {
+    font-family: var(--font-body);
+}
