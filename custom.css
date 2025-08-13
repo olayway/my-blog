@@ -23,6 +23,9 @@
 .site-navbar * {
     color: #ffffff;
     font-family: var(--font-body);
+}
+
+.site-navbar-site-name {
     font-size: 1.5rem;
 }
 
