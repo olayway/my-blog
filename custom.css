@@ -90,3 +90,7 @@
 .page-header-description {
     font-family: var(--font-body);
 }
+
+.page-toc-heading {
+    font-family: var(--font-heading)
+}
