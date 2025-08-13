@@ -8,12 +8,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nata+Sans:wght@100..900&family=Ovo&display=swap');
 
-body {
-    font-family: 'Nata Sans', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Ovo', serif;
+:root {
+    --font-body: 'Nata Sans', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    --font-heading: 'Ovo', ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 .site-navbar {
