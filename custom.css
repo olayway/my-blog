@@ -1,0 +1,82 @@
+/*
+ * Inspired by the visual style of "Glide" Ghost theme
+ * https://ghost.org/themes/glide/
+ *
+ * No Glide source code has been reused; this stylesheet is an
+ * original work authored from scratch.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Nata+Sans:wght@100..900&family=Ovo&display=swap');
+
+body {
+    font-family: 'Nata Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ovo', serif;
+}
+
+.site-navbar {
+    background-color: #09090b;
+    position: static;
+}
+
+.site-navbar * {
+    color: #ffffff;
+    font-family: 'Nata Sans', serif;
+    font-size: 1.5rem;
+}
+
+.page-hero-container {
+    background-color: #09090b;
+}
+
+.page-hero * {
+    color: #ffffff;
+}
+
+.page-hero {
+    max-width: 80rem;
+}
+
+.page-hero-content-container {
+    grid-column: span 8 / span 8;
+}
+
+.page-hero-image-container {
+    grid-column: span 4 / span 4;
+}
+
+.page-hero-image {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 100%;
+    margin: auto;
+}
+
+@media (max-width: 1024px) {
+    .hero-image {
+        margin: 0 auto 5rem;
+    }
+}
+
+.list-component {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem; 
+}
+
+@media (max-width: 640px) {
+    .list-component {
+        grid-template-columns: 1fr;
+    }
+}
+
+.list-component-pagination {
+    grid-column: 1 / -1;
+}
+
+.list-component-item-title {
+    font-size: 2rem;
+    line-height: 1;
+}
