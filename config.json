@@ -20,5 +20,6 @@
       }
     ]
   },
-  "showSidebar": true
+  "showSidebar": true,
+  "theme": "letterpress"
 }
