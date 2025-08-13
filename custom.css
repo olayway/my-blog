@@ -86,7 +86,7 @@
 .list-component-item-text,
 .list-component-item-eyebrow,
 .page-header-date,
-.page-header-authors,
+.page-header-author,
 .page-header-description {
     font-family: var(--font-body);
 }
