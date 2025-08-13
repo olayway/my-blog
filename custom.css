@@ -55,7 +55,7 @@
 
 @media (max-width: 1024px) {
     .page-hero-image {
-        margin: 0 auto 5rem;
+        padding-bottom: 5rem;
     }
 }
 
