@@ -1,5 +1,5 @@
 ---
-title: From Beans to Build Times From Beans to Build Times
+title: From Beans to Build Times
 description: How a day-long flight through three brewing methods sharpened my focus, sped up my CI pipeline cleanup, and reminded me why the smallest rituals matter.
 authors: [julie]
 date: 2025-05-10
