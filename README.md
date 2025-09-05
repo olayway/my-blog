@@ -61,6 +61,4 @@ Our articles are written by experienced developers who are also certified coffee
 
 ---
 
-![[hero.png]]
-
 Join us on this caffeinated journey through the world of software development! 🚀
