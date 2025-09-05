@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "title": "Julie Stone",
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/julie"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/julie"
+      },
+      {
+        "label": "mastodon",
+        "name": "Follow me on Mastodon",
+        "href": "https://twitter.com/julie"
+      }
+    ]
+  },
+  "showSidebar": true
+}
