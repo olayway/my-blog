@@ -2,7 +2,6 @@
 title: ☕ Coffee & Code Blog
 description: Join us on this caffeinated journey through the world of software development! 🚀
 image: /assets/hero.png
-showHero: true
 ---
 
 Welcome to a unique blog where we explore programming concepts through the lens of coffee brewing. Whether you're a software developer who loves coffee or a barista curious about coding, you'll find something interesting here.
