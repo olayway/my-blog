@@ -7,4 +7,4 @@ showToc: false
 showSidebar: false
 ---
 
-<List dir="/blog" slots={{image: "image", eyebrow: "date", "headline": title, summary: "description", footnote: "authors"}} pageSize={6}/>
+<List dir="/blog" slots={{image: "image", eyebrow: "date", headline: "title", summary: "description", footnote: "authors"}} pageSize={6}/>
